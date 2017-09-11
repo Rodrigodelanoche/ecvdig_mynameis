@@ -3,3 +3,9 @@ h1 {
 	color: blue;
 	font-size: 42px;
 }
+
+figure {
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
